@@ -4,6 +4,40 @@ subtitle: 'This chapter will teach you about many cool things about R and RStudi
 title-block-banner: yes
 ---
 
+## Why do we want to learn and use R and RStudio?
+
+- R and RStudio are powerful tools for statistical analysis
+
+- It is user friendly and open sourced
+
+- Provide reproducible code
+
+- Easy data cleaning and data visualization
+
+- And many more for you to explore
+
+## What is R and RStudio
+
+R is a free software environment for statistical computing and graphics. RStudio is an integrated development environment (IDE) for R. 
+
+::: {.callout-important}
+Before you download and install RStudio, you must first downloaded and install R.
+:::
+
+::: {.callout-tip}
+
+One way to think about the relationship between R and RStudio is that R acts like the CPU of a computer where RStudio acts like your computer which provides easy-to-work-with interface.
+
+:::
+
+## Download and Install R, RStudio
+
+Download the latest version of R from The Comprehensive R Archive Network [CRAN](https://cloud.r-project.org/)
+
+Please select Download R for your operating system.
+
+Download the latest version of RStudio from [RStudio Desktop](https://posit.co/download/rstudio-desktop/) 
+
 ## Additional Resources 
 
 - [Introduction to R](https://cengel.github.io/R-intro/)
